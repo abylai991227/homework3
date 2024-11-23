@@ -1,0 +1,47 @@
+/* Селектор по тегу */
+p {
+    color: blue; /* Все абзацы будут синими */
+}
+
+/* Селектор по классу */
+.cocacola {
+    font-weight: bold; /* Элементы списка с классом "highlighted" будут жирными */
+}
+
+/* Селектор по ID */
+#title {
+    color: red; /* Заголовок с ID "main-title" будет красным */
+}
+
+#header {
+    background-color: yellow;
+    text-align: center;
+ }
+ 
+
+ .container {
+    padding: 20px;
+    border: 1px solid black;
+ }
+ .title {
+    font-size: 24px;
+    text-align: center;
+ }
+ .highlight {
+    color: rgb(11, 11, 11);
+    font-weight: bold;
+ }
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
